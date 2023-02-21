@@ -1,5 +1,5 @@
-# kuju_kuju_assignment
-This repo is for assignment assigned by KujuKuju
+#Kuja Kuja Assignment
+This repo is created to share the output files and dashboard built for the assignment assigned KujaKuja team.
 
 # Requirements
 
@@ -13,7 +13,7 @@ This repo is for assignment assigned by KujuKuju
 
 # Data Source Used
 
-An excel file containing data provided by KujuKuju has been used to complete this task.
+An excel file containing data provided by Kuja Kuja has been used to complete this task.
 
 # Data Analysis and Results Discussion
 
