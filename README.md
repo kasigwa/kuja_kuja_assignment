@@ -1,4 +1,4 @@
-#Kuja Kuja Assignment
+# Kuja Kuja Assignment
 This repo is created to share the output files and dashboard built for the assignment assigned KujaKuja team.
 
 # Requirements
