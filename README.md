@@ -8,7 +8,7 @@ This repo is created to share the output files and dashboard built for the assig
 # Project Setup
 
 1. Clone this repository
-2. Open the 'kuju_kuju_dashboard.twb' file in the Tableau.
+2. Open the 'kuja_kuja_dashboard.twb' file in the Tableau.
 3. Switch to 'Final Dashboard' tab in the Tableau.
 
 # Data Source Used
