@@ -1,6 +1,22 @@
 # kuju_kuju_assignment
 This repo is for assignment assigned by KujuKuju
 
+# Requirements
+
+1. Tableau
+
+# Project Setup
+
+1. Clone this repository
+2. Open the 'kuju_kuju_dashboard.twb' file in the Tableau.
+3. Switch to 'Final Dashboard' tab in the Tableau.
+
+# Data Source Used
+
+An excel file containing data provided by KujuKuju has been used to complete this task.
+
+# Data Analysis and Results Discussion
+
 I have created a Tableau dashboard to analyse the data provided with the help of the schema mentioned about the data.
 
 1. Here are some of the insights that are analysed and visualised from the dashboard.
